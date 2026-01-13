@@ -220,7 +220,8 @@ loop_
    _atom_site_adp_type
    _atom_site_U_iso_or_equiv
    _atom_site_site_symmetry_multiplicity
-Gd1    Gd3+ 0.00000     0.00000     0.00000     0.5000     Uiso 0.0210     4   
-Zr1    Zr4+ 0.00000     0.00000     0.00000     0.5000     Uiso 0.0210     4   
-O1     O2-  0.25000     0.25000     0.25000     0.8750     Uiso 0.0570     8   
+Gd1    Gd 0.00000     0.00000     0.00000     0.5000     Uiso 0.0210     4   
+Zr1    Zr 0.00000     0.00000     0.00000     0.5000     Uiso 0.0210     4   
+O1     O  0.25000     0.25000     0.25000     0.8750     Uiso 0.0570     8   
+
 
